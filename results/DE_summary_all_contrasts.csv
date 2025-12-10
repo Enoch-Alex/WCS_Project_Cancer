@@ -1,0 +1,14 @@
+"Contrast","Total_Genes","Significant","Upregulated","Downregulated","Mean_LFC_up","Mean_LFC_down"
+"Bica_vs_Control_noDHT",25501,4,2,0,1.20172148723321,NA
+"Enza_vs_Control_noDHT",25501,0,0,0,NA,NA
+"Apalu_vs_Control_noDHT",25501,0,0,0,NA,NA
+"Bica_vs_Control_DHT",25501,1454,117,150,1.26411789663066,-1.4679210769364
+"Enza_vs_Control_DHT",25501,3542,253,267,1.27543756436379,-1.51101355180798
+"Apalu_vs_Control_DHT",25501,3129,252,253,1.28696587116093,-1.53092096274216
+"DHT_effect_Control",25501,3394,311,326,1.55368121691638,-1.32068192368367
+"DHT_effect_Bica",25501,0,0,0,NA,NA
+"DHT_effect_Enza",25501,0,0,0,NA,NA
+"DHT_effect_Apalu",25501,5,1,0,1.73435735421577,NA
+"Bica_vs_Enza_noDHT",25501,5,1,0,1.20303671748294,NA
+"Bica_vs_Apalu_noDHT",25501,23,9,0,1.17882337130202,NA
+"Enza_vs_Apalu_noDHT",25501,0,0,0,NA,NA

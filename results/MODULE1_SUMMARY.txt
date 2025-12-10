@@ -1,0 +1,35 @@
+
+==============================================================================
+MODULE 1 COMPLETE - DIFFERENTIAL EXPRESSION ANALYSIS
+==============================================================================
+
+METHOD: DESeq2 with LFC shrinkage
+CONTRASTS ANALYZED: 13
+SIGNIFICANCE CUTOFF: padj < 0.05, |log2FC| > 1
+
+KEY FINDINGS:
+------------------------------------------------------------------------------
+
+FILES CREATED:
+------------------------------------------------------------------------------
+Results:
+  - DE_*.csv (individual contrast results)
+  - DE_summary_all_contrasts.csv
+  - gene_sharing_across_drugs.csv
+  - common_genes_direction_analysis.csv
+  - DHT_effect_summary.csv
+  - gene_lists/ (directory with gene lists)
+
+Figures:
+  - 08_DE_summary_barplot.pdf
+  - 09_volcano_plots_main.pdf
+  - 10_MA_plots.pdf
+  - 11_venn_diagram_drugs.pdf
+  - 12_upset_plot_drugs.pdf
+  - 13_heatmap_top_DE_genes.pdf
+  - 14_fold_change_concordance.pdf
+  - 15_DHT_effect_comparison.pdf
+
+NEXT STEP: Run Module 2 for pathway enrichment analysis
+==============================================================================
+

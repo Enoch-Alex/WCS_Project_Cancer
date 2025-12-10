@@ -1,0 +1,37 @@
+
+==============================================================================
+MODULE 2 COMPLETE - PATHWAY ENRICHMENT ANALYSIS
+==============================================================================
+
+METHODS:
+  - Over-Representation Analysis (ORA) with hypergeometric test
+  - Gene Set Enrichment Analysis (GSEA)
+  - Pathway classification (shared vs drug-specific)
+  - Network analysis (Jaccard similarity)
+
+DATABASES:
+  - WikiPathways
+  - KEGG
+  - Reactome
+  - Hallmark Gene Sets
+  - Gene Ontology (BP, MF, CC)
+
+KEY OUTPUTS:
+------------------------------------------------------------------------------
+Results:
+  - all_enrichments_combined.csv
+  - all_GSEA_results.csv
+  - pathway_comparison_across_drugs.csv
+  - BIOLOGICAL_INTERPRETATION.txt
+  - Cytoscape network files
+
+Figures:
+  - 16_wikipathways_dotplots.pdf
+  - 17_hallmark_dotplots.pdf
+  - 18_pathway_comparison_heatmap.pdf
+  - 19_pathway_classification_summary.pdf
+  - 20_GSEA_dotplots.pdf
+
+NEXT STEP: Run Module 3 for network visualization (requires Cytoscape)
+==============================================================================
+

@@ -1,0 +1,29 @@
+
+==============================================================================
+MODULE 0 COMPLETE - DESeq2 ANALYSIS READY
+==============================================================================
+
+Dataset: GSE211781
+Method: DESeq2
+Total samples: 16
+Genes analyzed: 25501
+Groups: 8
+
+FILES CREATED:
+------------------------------------------------------------------------------
+Results:
+  - sample_metadata.csv
+  - normalized_vst_values.csv
+  - PCA_coordinates.csv
+  - QC_summary.csv
+
+Figures:
+  - 01_size_factors.pdf
+  - 02_dispersion_estimates.pdf
+  - 03_PCA_plot.pdf
+  - 04_sample_distances.pdf
+  - 05_library_sizes.pdf
+
+NEXT STEP: Run Module 1 for differential expression analysis
+==============================================================================
+
